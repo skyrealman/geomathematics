@@ -24,10 +24,9 @@
 
 地质学的发展与数学的使用息息相关。地质学的一个最重要目标是建立包含矿产与油气在内的，通过各种假定界限分割的岩石单元所组成的地壳三维地质结构图。在地质预测工作有很多需要量化的不确定因素，因此了解基本的物理与化学过程对我们掌握岩石年代和演变等地质概念很有帮助。
 <!-- page 3-->
-根据Agterberg（2013）的观点，地质学家与统计学家有着长期富有成效的合作。著名地质学家William Krumbein[^1]在其长期的职业生涯中，多次与John Tukey[^2]合作。Krumbein还与统计学家Franklin Graybill共同编写了第一本数学地质手册（Krumbein and Graybill 1965），他们区分了三种不同类型的地质模型：（1）几何模型；（2）概念模型；（3）数学模型。通常地质学家对几何模型和概念模型比较关注。
+根据Agterberg（2013）的观点，地质学家与统计学家有着长期富有成效的合作。著名地质学家[William Krumbein](https://en.wikipedia.org/wiki/William_C._Krumbein)在其长期的职业生涯中，多次与[John Tukey](https://en.wikipedia.org/wiki/John_Tukey)合作。Krumbein还与统计学家[Franklin Graybill](http://www.stat.colostate.edu/statdepartment/statnews/stat2012graybillobit.html)共同编写了第一本数学地质手册（Krumbein and Graybill 1965），他们区分了三种不同类型的地质模型:（1）几何模型;（2）概念模型;（3）数学模型。通常地质学家对几何模型和概念模型比较关注。
 
+John Griffiths(1967)，是另一位数学地质领域的先驱，他同[Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher)一起，在高级统计抽样技术方面做了大量工作。在前苏联，Andrew Vistelius在准备他的博士论文时就与[Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov)紧密合作。[Felix Chayes](https://en.wikipedia.org/wiki/Felix_Chayes_Prize)（1956，1971）在岩相学中开展了模态分析研究，并且关注了[Karl Pearson](https://en.wikipedia.org/wiki/Karl_Pearson)关于闭域数可能产生假相关的警告，这项研究直接帮助[John Aitchison](https://en.wikipedia.org/wiki/John_Aitchison)（1986）提出成分数据分析理论，至今仍然是重要的研究领域（Egozcue等人 2003）。
 
+相应地，地质学家同样也促使统计学家去探索新的研究方向。
 
-[^1]: 译者注 https://en.wikipedia.org/wiki/William_C._Krumbein
-
-[^2]: 译者注 https://en.wikipedia.org/wiki/John_Tukey
